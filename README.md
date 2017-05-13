@@ -7,4 +7,4 @@ A personal health-care web and mobile-based system in two parts:
  - An Azure Web application which performs simple analytics and prediction of health conditions for a for-seeable time.
 
 
-***This repository contains source-code for the iOS app only. The web module for analysis can be [found here]().***
+***This repository contains source-code for the iOS app only. The web module for analysis can be [found here](https://github.com/gms298/iAssist-Web-App).***
